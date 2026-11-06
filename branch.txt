@@ -1,1 +1,5 @@
 This is first file in git branch
+
+In a Testing phase
+
+Verifying
